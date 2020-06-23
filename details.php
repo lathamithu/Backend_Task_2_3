@@ -90,7 +90,7 @@
 <div class="section"><span>3</span>
 <label><h3>Date of birth :</h3></label></div>
 <div class="inner-wrap">
-	<?php echo $_POST["date"]; ?><br>
+	<?php echo $_POST["date_"]; ?><br>
 </div>
 
 <div class="section"><span>4</span>
@@ -113,5 +113,4 @@
 </div>
 </div>
 </body>
-
 </html>
