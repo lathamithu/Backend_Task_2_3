@@ -1,3 +1,14 @@
+**Task 2**
+1. Learn basics of HTML, CSS and JS.
+2. Design a employee create form with name, profile image, DOB, gender, qualification and address.
+3. Add HTML validation for the fields.
+
+**Task 3**
+1. Install xampp as local server.
+2. Learn the basics of PHP programming.
+3. Using php get the data from the employee form submitted and show the details.
+4. Add server side validation for the fields.
+
 **Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
 
 When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
