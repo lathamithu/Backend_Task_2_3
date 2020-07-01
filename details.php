@@ -36,7 +36,7 @@
 	-webkit-box-shadow: inset 0px 2px 2px 0px rgba(255, 255, 255, 0.17);
 	box-shadow: inset 0px 2px 2px 0px rgba(255, 255, 255, 0.17);
 	border: 1px solid #257C9E;
-}
+} 
 
 .form-style h1 > span{
 	display: block;
